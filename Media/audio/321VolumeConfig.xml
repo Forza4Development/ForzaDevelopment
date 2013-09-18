@@ -1,0 +1,3 @@
+<ShotNumber>
+  <Shot tireVolume="1.000000" transmissionVolume="1.000000" turboVolume="1.000000" superChargerVolume="1.000000" suspensionVolume="1.000000" carWindVolume="1.000000" collisionVolume="1.000000" ambientVolume="1.000000" engIntakeVolume="1.000000" engAmbientVolume="1.000000" exhaustVolume="1.000000" opponentVolume="1.000000"/>
+</ShotNumber>

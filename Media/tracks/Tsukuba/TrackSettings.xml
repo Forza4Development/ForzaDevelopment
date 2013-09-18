@@ -1,0 +1,171 @@
+
+<TrackSettings Version="60">
+	<SkyboxHeightOffset value="-100.100006"/>
+	<SkyboxIndex value="1"/>
+	<SunHeightOffset value="0.000000"/>
+	<LightAmbient r="0.060000" g="0.060000" b="0.070000" a="1.000000"/>
+	<DesaturateAmount value="0.850000"/>
+	<DesatLuminosity r="0.212600" g="0.715200" b="0.072200" a="1.000000"/>
+	<DesatPostMod r="1.020000" g="1.000000" b="0.980000" a="0.000000"/>
+	<WorldClear r="0.260000" g="0.260000" b="0.260000"/>
+	<SHLighting Version="6" SHTopRed="0.070000" SHTopGreen="0.080000" SHTopBlue="0.090000" SHBottomRed="0.000000" SHBottomGreen="0.000000" SHBottomBlue="0.000000" SHDirRed="0.730000" SHDirGreen="0.730000" SHDirBlue="0.730000" SHEnvMapTop="1.000000" SHEnvMapBottom="0.150000" CockpitDirectionalScalar="5.000000" CockpitHemisphericalScalar="8.000000"/>
+	<WindDirection x="0.010000" y="0.010000" z="-431602080.000000"/>
+	<WindAmplitude value="0.200000"/>
+	<WindGustinessStrength value="0.000000"/>
+	<WindGustinessFrequency value="0.000000"/>
+	<WindSpeed value="1.450000"/>
+  <Fog>
+	<Curve value="0.000000"/>
+	<Settings0>
+	  <Enabled value="1"/>
+	  <Angle value="90"/>
+	  <Color r="0.500000" g="0.540000" b="0.640000"/>
+	  <Near value="600.000000"/>
+	  <NearDensity value="0.02500"/>
+	  <Far value="660.000000"/>
+	  <FarDensity value="1.00000"/>
+	</Settings0>
+	<Settings1>
+	  <Enabled value="0"/>
+	  <Angle value="270"/>
+	  <Color r="1.000000" g="1.000000" b="1.000000"/>
+	  <Near value="10.000000"/>
+	  <NearDensity value="0.000000"/>
+	  <Far value="660.000000"/>
+	  <FarDensity value="0.030000"/>
+	</Settings1>
+	<Settings2>
+	  <Enabled value="0"/>
+	  <Angle value="240"/>
+	  <Color r="0.500000" g="0.500000" b="0.500000"/>
+	  <Near value="230.000000"/>
+	  <NearDensity value="0.000000"/>
+	  <Far value="320.000000"/>
+	  <FarDensity value="0.150000"/>
+	</Settings2>
+	<Settings3>
+	  <Enabled value="0"/>
+	  <Angle value="0"/>
+	  <Color r="0.500000" g="0.500000" b="0.500000"/>
+	  <Near value="100.000000"/>
+	  <NearDensity value="0.000000"/>
+	  <Far value="5000.000000"/>
+	  <FarDensity value="1.000000"/>
+	</Settings3>
+	<Settings4>
+	  <Enabled value="0"/>
+	  <Angle value="0"/>
+	  <Color r="0.500000" g="0.500000" b="0.500000"/>
+	  <Near value="100.000000"/>
+	  <NearDensity value="0.000000"/>
+	  <Far value="5000.000000"/>
+	  <FarDensity value="1.000000"/>
+	</Settings4>
+	<Settings5>
+	  <Enabled value="0"/>
+	  <Angle value="0"/>
+	  <Color r="0.500000" g="0.500000" b="0.500000"/>
+	  <Near value="100.000000"/>
+	  <NearDensity value="0.000000"/>
+	  <Far value="5000.000000"/>
+	  <FarDensity value="1.000000"/>
+	</Settings5>
+	<Settings6>
+	  <Enabled value="0"/>
+	  <Angle value="0"/>
+	  <Color r="0.500000" g="0.500000" b="0.500000"/>
+	  <Near value="100.000000"/>
+	  <NearDensity value="0.000000"/>
+	  <Far value="5000.000000"/>
+	  <FarDensity value="1.000000"/>
+	</Settings6>
+	<Settings7>
+	  <Enabled value="0"/>
+	  <Angle value="0"/>
+	  <Color r="0.500000" g="0.500000" b="0.500000"/>
+	  <Near value="100.000000"/>
+	  <NearDensity value="0.000000"/>
+	  <Far value="5000.000000"/>
+	  <FarDensity value="1.000000"/>
+	</Settings7>
+  </Fog>
+  <ShadowColor r="0.500000" g="0.500000" b="0.500000" a="1.0000"/>
+  <StaticShadowColor r="0.500000" g="0.500000" b="0.500000" a="1.0000"/>
+  <GrassHeightScale value="1.300000"/>
+  <GlobalSpecularLevel Version="2" value="1.000000"/>
+  <MinSpecLevel value="0.000000"/>
+  <DetailBlurAmount1 value="0.060000"/>
+  <DetailBlurAmount2 value="0.100000"/>
+  <DetailBlurAmount3 value="0.200000"/>
+  <DetailBlurContrastAmount1 value="1.000000"/>
+  <DetailBlurContrastAmount2 value="1.000000"/>
+  <DetailBlurContrastAmount3 value="1.000000"/>
+  <DetailBlurIntensityAmount1 value="1.000000"/>
+  <DetailBluIntensityAmount2 value="1.000000"/>
+  <DetailBlurIntensityAmount3 value="1.000000"/>
+  <DetailBlurContrastAmountFinal value="1.000000"/>
+  <DetailBlurIntensityAmountFinal value="1.000000"/>
+  <DetailBlurMPHForMaxBlur value="90.000000"/>
+  <bloomCutoffScale value="0.000000"/>
+  <bloomPersist value="0.000000"/>
+  <motionBlurAmount value="0.000000"/>
+  <dofFocalDistance value="4.000000"/>
+  <dofFocalLength value="0.000000"/>
+  <dofFocalMaxBlur value="0.000000"/>
+  <DarkColor r="0.100000" g="0.100000" b="0.100001" a="0.000000"/>
+  <LightColor r="0.650000" g="0.650000" b="0.650000" a="1.000000"/>
+  <CollidableDropDistance value="300.000000"/>
+  <GrassSpacingType value="0"/>
+  <GrassLODDist value="4.000000"/>
+  <GrassLODFadeRange value="3.000000"/>
+  <GrassMinNumShells value="2"/>
+  <GrassFadeStartDistance value="75.000000"/>
+  <GrassFadeEndDistance value="100.000000"/>
+  <ToneMapAdaptiveExposure Key_ExtraDark="0.000000" Key_Dark="16.000000" Key_Light="26.250000" Key_ExtraLight="73.000000" Exp_ExtraDark="1.453000" Exp_Dark="0.000000" Exp_Light="0.000000" Exp_ExtraLight="-0.250000"/>
+  <ToneMapCockpitExposure Key_ExtraDark="0.000000" Key_Dark="16.000000" Key_Light="40.000000" Key_ExtraLight="72.000000" Exp_ExtraDark="1.500000" Exp_Dark="0.000000" Exp_Light="0.000000" Exp_ExtraLight="0.000000"/>
+  <bloomCutoff value="1.299998"/>
+  <bloomScale value="3.090001"/>
+  <bloomPersist value="0.009100"/>
+  <bloomWeights x="0.408000" y="0.409001" z="0.400000" w="0.101000"/>
+  <skyGain value="0.000000"/>
+  <sunGainScale threshold="0.000000" power="0.100000" scale="0.000000"/>
+  <GrassMaxNumShells value="16.000000"/>
+  <Cubemap Version="4" MeshSizeThreshold="0.110000" MeshLimit="24" LimitPerFace="0" FacesPerFrame="2" FarDistance="150.000000" VisibilityThreshold="51264"/>
+  <Mirror VisibilityThreshold="64"/>
+  <OverrideShadowLightDirection value="1"/>
+  <ShadowLightDirection x="0.630736" y="-1.000000" z="0.312294"/>
+  <MipMapLodBiasModifier value="0.000000"/>
+  <Crowds Version="3" dark_x="0.700000" dark_y="0.700000" dark_z="0.700000" dark_w="1.000000" light_x="1.505000" light_y="1.505000" light_z="1.505000" light_w="1.000000" lod0="0.000000" lod1="0.000000" lod2="50.000000" lod3="0.000000" SpriteDistance="60.000000"/>
+  <DropShadowColor r="0.025000" g="0.000000" b="0.000000" a="0.10000"/>
+  <TrackLightMapTransition MidPoint="0.000000" Width="0.000000" Color="0.000000"/>
+  <TrackLightMapColor r="0.000000" g="0.000000" b="0.000000"/>
+  <GlobalFresnel OpaqueAngle="70.000000" TransparentMultiplier="1.200000"/>
+  <ToneMapeDelay val="0.150000"/>
+  <CameraExposureRange minval="-2.000000" maxval="6.000000"/>
+  <DetailBlurScale Version="2" val="0.250000"/>
+  <SunSize min="0.000000" max="0.000000"/>
+  <SunAdjust decay="0.320000" brightness="0.250000" scale="0.780000"/>
+  <Performance DynamicCubemap="1" NonFocusCarProjectedShadows="1" FocusCarProjectedShadows="1" DetailBlur="1" Lightmap="1" CrowdSize="1024"/>
+  <ShadowEnds ShadowNear="25.000000" InGameShadowEnd="85.000000" TrackSegCamShadowEnd="200.000000" ShadowMipBias="-0.750000"/>
+  <CommandBufferRecording TimeAllowed="4.500000" NumTextureFixupsAllowed="50" NumGraphsAllowed="25" PrerecordNextZone="0"/>
+  <RoadSpecular RoadSpecular="-0.027000" RoadSpecular2="0.858997" RoadSkid="-0.026000" RoadSkid2="0.783000" RoadGlossiness="26.000000" RoadGlossiness2="26.000000" RoadLightmapDarkPoint="0.401000" RoadLightmapLightPoint="0.852000"/>
+  <TrackLightMapParams DarkPoint="0.401000" LightPoint="0.861000"/>
+  <skyScale value="0.0250"/>
+  <cubeSkyScale value="0.000000"/>
+  <cubeSkySaturation value="0.665000"/>
+  <homespaceCamLightDirOffset Enabled="0" x="0.000000" y="0.000000" z="0.000000"/>
+  <DropShadowOpacityAdjustment value="10000.00000"/>
+  <FileChunkSize value="1048576"/>
+  <ResourcePriority Texture="393216" Model="458752"/>
+  <imageBasedLighting Version="3" Enable="0" LogLuvEncode="0" iblAmbientScale="1.750001" iblAmbientSaturation="0.650000" iblDirectScale="0.200000" iblSunColorR="1.000000" iblSunColorG="1.000000" iblSunColorB="1.000000"/>
+  <cubeReflGroundScale value="1.000000"/>
+  <filmicTone Version="2" white="1.000000" shoulderStrength="0.700000" linearStrength="0.202000" linearAngle="0.040000" toeStrength="0.220000" toeNumerator="0.003000" toeDenominator="0.140000" exposure="0.309999"/>
+  <wholeTrackLightmapRadius value="500.500183"/>
+  <TrackGroundColor r="0.100000" g="0.100000" b="0.100000"/>
+  <TrackSkyColor r="0.100000" g="0.900000" b="0.100000"/>
+  <TrackHorizonBegin value="0.000000"/>
+  <TrackHorizonEnd value="0.100000"/>
+  <Particles>
+	<TintColor r="1.000000" g="1.000000" b="1.000000"/>
+  </Particles>
+</TrackSettings>

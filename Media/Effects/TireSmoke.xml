@@ -1,0 +1,37 @@
+
+<Effect Version="5" budget="4000" lowerbudget="2000">
+  <EmitterProperties type="SuperSpray">
+    <OffAxis value="0.000000" variation="57.387096"/>
+    <OffPlane value="3.346453" variation="0.000000"/>
+    <Quantity value="30.000000"/>
+    <Velocity value="0.375000" variation="0.450000"/>
+    <EmitTime start="0.000000" end="0.000000" infinite="0"/>
+    <DisplayUntil value="-1"/>
+    <Life value="16.0" variation="0.000000"/>
+    <Density Version="3" value="2.499998"/>
+    <ParticleShaderType Version="3" value="default"/>
+    <RenderInMirror value="1"/>
+    <Size value="2.25" variation="0.330000" growfor="7.500000" fadefor="0.000000" initial_vertical_offset="1"/>
+    <SpinTime value="12.000000" variation="0.500000"/>
+    <SpinPhase value="0.000000" variation="3.141593"/>
+    <SpinAxis type="Random"/>
+    <LockTo camera="0"/>
+  </EmitterProperties>
+  <Behavior>
+    <MotionInheritance influence="20" multiplier="0.200000" variation="0.200000"/>
+    <Gravity strength="-2.000000" decay="0.000000"/>
+    <ParticleSpawn type="None"/>
+  </Behavior>
+  <Render>
+    <ParticleType value="BillboardedQuad" dynamic_lighting="1" light_influence="0.250000" zsort="1" max_screen_size="0.850000">
+      <Texture value="Particle_Smoke.tga"/>
+      <Texture2 value=""/>
+      <VoxelData MaxParticlesPerSmallVoxel="2" MaxParticlesPerLargeVoxel="9" LargeParticleSize="0.220000" VoxelSizeSmall="0.500000" VoxelSizeLarge="1.000000" ParticleDecayRate="1.000000"/>
+      <Material>
+        <BlendType value="alpha"/>
+        <RGBStart r="0.851961" g="0.851961" b="0.901961" a="0.95"/>
+        <RGBEnd r="0.692157" g="0.692157" b="0.692157" a="0.15"/>
+      </Material>
+    </ParticleType>
+  </Render>
+</Effect>
